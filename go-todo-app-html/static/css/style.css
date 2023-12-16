@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(60, 75, 60);
+    color: black;
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul li {
+    cursor: pointer;
+}
+
+.done {
+    text-decoration: line-through;
+}
